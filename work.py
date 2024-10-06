@@ -1,2 +1,3 @@
-def sum():
-    pass
+def sum(a,p):
+    
+    return a+p
